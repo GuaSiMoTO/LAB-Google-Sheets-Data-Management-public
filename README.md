@@ -58,6 +58,17 @@ To submit this LAB:
 3. Don't forget to add the `share link` in your pull request!
 
 -  Share link: <your link>
+
+---
+
+## Iteration 4: Protect and Hide Sheets
+
+In this iteration, you will protect specific rows and share your spreadsheet with a partner while restricting access to certain data.
+
+1. Protect the "2024 Projects" sheet so that only the information for "Project A" can be modified by your partner.
+2. Share your workbook with your partner.
+3. Verify with your partner that they can only modify the information for "Project A" but not other projects.
+
 ---
 
 ## Bonus 1
